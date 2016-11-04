@@ -1,4 +1,4 @@
-package net.bethydiakabana.interview.ctci.datastructures;
+package crackingthecodinginterview.datastructures;
 
 import java.util.ArrayList;
 import java.util.HashMap;
